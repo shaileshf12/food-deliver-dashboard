@@ -53,7 +53,7 @@ const Header = () => {
           </button>
         )}
       </div>
-      <div className='flex items-center gap-4'>
+      <div className='flex items-center gap-10'>
         <div className="flex items-center space-x-8">
           <Bell className="w-6 h-6 text-[#2D9CDB] hover:text-gray-800 cursor-pointer " />
           <MessageSquareMore className="w-6 h-6 text-[#2D9CDB] hover:text-gray-800 cursor-pointer" />

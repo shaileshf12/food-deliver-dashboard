@@ -17,47 +17,47 @@ const router = createBrowserRouter([
       },
       {
         path: 'order-list',
-        element: <Dashboard />,
+        element: <>Order List</>,
       },
       {
         path: 'order-details',
-        element: <Dashboard />,
+        element: <>Order Details</>,
       },
       {
         path: 'customer',
-        element: <Dashboard />,
+        element: <>Customer</>,
       },
       {
         path: 'analytics',
-        element: <Dashboard />,
+        element: <>Analytics</>,
       },
       {
         path: 'reviews',
-        element: <Dashboard />,
+        element: <>Reviewes</>,
       },
       {
         path: 'foods',
-        element: <Dashboard />,
+        element: <>Foods</>,
       },
       {
         path: 'food-details',
-        element: <Dashboard />,
+        element: <>Food Details</>,
       },
       {
         path: 'customer-details',
-        element: <Dashboard />,
+        element: <>Customer Details</>,
       },
       {
         path: 'calendar',
-        element: <Dashboard />,
+        element: <>Calendar</>,
       },
       {
         path: 'chat',
-        element: <Dashboard />,
+        element: <>Chat</>,
       },
       {
         path: 'chat-wallet',
-        element: <Dashboard />,
+        element: <>Chat Wallet</>,
       },
     ],
   },
