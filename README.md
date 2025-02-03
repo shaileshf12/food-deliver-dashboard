@@ -12,7 +12,7 @@ A food delivery dashboard webpage that showcases all the data related to food or
 Clone the project
 
 ```bash
-  git clone https://github.com/shaileshf12/food-deliver-dashboard
+  git clone https://github.com/shaileshf12/food-delivery-dashboard
 ```
 
 Go to the project directory
