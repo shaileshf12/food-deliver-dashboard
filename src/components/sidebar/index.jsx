@@ -35,7 +35,7 @@ export default function Sidebar() {
   ];
 
   return (
-    <div className=" bg-white text-black p-8 flex flex-col gap-18">
+    <div className=" bg-white w-[345px] text-black p-8 flex flex-col gap-18">
       <div className="">
         <div className="text-5xl font-semibold relative">
           <span className="font-[Poppins]">Sedap</span>
